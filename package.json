@@ -1,0 +1,23 @@
+{
+  "name": "pug-test",
+  "version": "1.0.0",
+  "description": "Testing Pug",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivan-developer-01/pug-test.git"
+  },
+  "author": "Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivan-developer-01/pug-test/issues"
+  },
+  "homepage": "https://github.com/ivan-developer-01/pug-test#readme",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
