@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ivan-developer-01/pug-test#readme",
   "devDependencies": {
+    "pug": "^2.0.4",
+    "pug-loader": "^2.4.0",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   }
